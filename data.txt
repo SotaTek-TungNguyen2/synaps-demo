@@ -1,0 +1,38 @@
+FACE:
+---webhookData {
+  secret: 'i3iHQ2W8r2dDexGOOqDxScp1rBAhb59k',
+  session_id: '8c158728-ab416023-adf79f7b-93d1676d',
+  state: 'VALIDATED',
+  step_id: '2964858126623',
+  service: 'LIVENESS',
+  reason: null
+}
+
+
+NATIONAL ID:
+---webhookData {
+  secret: 'i3iHQ2W8r2dDexGOOqDxScp1rBAhb59k',
+  session_id: '8c158728-ab416023-adf79f7b-93d1676d',
+  state: 'SUBMITTED',
+  step_id: '2964858127515',
+  service: 'IDENTITY',
+  reason: null
+}
+
+---webhookData {
+  secret: 'i3iHQ2W8r2dDexGOOqDxScp1rBAhb59k',
+  session_id: '8c158728-ab416023-adf79f7b-93d1676d',
+  state: 'VALIDATED',
+  step_id: '2964858127515',
+  service: 'IDENTITY',
+  reason: null
+}
+PHONE:
+---webhookData {
+  secret: 'i3iHQ2W8r2dDexGOOqDxScp1rBAhb59k',
+  session_id: '8c158728-ab416023-adf79f7b-93d1676d',
+  state: 'VALIDATED',
+  step_id: '2964858127438',
+  service: 'PHONE',
+  reason: null
+}
